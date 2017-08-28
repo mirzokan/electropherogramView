@@ -6,3 +6,5 @@ This Excel app allows viewing, alignment and normalization of multiple electroph
 * Smoothing by Savitzky–Golay filter
 * Addition of artificial noise (useful for in silico generated traces)
 
+Example data is included in the "Databank" directory for you to try it out.
+ 
